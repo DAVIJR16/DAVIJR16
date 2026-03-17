@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá, eu sou o Davi! 👋 (vulgo Muralha)
 
-<!--
-**DAVIJR16/DAVIJR16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app" alt="Status do GitHub" />
+</div>
 
-Here are some ideas to get you started:
+### 🚀 Sobre mim
+- 🎓 Aluno de **Desenvolvimento de Sistemas** no **Colégio Regente Feijó**.
+- 👦 16 anos.
+- ⚽ Conhecido como **Muralha**.
+- 💻 Focado em aprender novas tecnologias e construir projetos práticos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias que estou aprendendo
+<p align="left">
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+</p>
+
+### 📬 Como me encontrar
+- [LinkedIn](https://www.linkedin.com)
+- [E-mail](mailto:seu-email@exemplo.com)
+
+---
+*“A persistência é o caminho do êxito.”*
