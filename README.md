@@ -1,9 +1,5 @@
 # Olá, eu sou o Muralha
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app" alt="Status do GitHub" />
-</div>
-
 ### 🚀 Sobre mim
 - 🎓 Aluno de **Desenvolvimento de Sistemas** no **Colégio Regente Feijó**.
 - 👦 16 anos.
