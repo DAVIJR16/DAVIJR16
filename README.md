@@ -12,7 +12,7 @@
 
 ### 🛠️ Tecnologias que estou aprendendo
 <p align="left">
-  <img src="https://img.shields.io" />
+  <img src="file:///C:/Users/aluno/Pictures/Screenshots/Captura%20de%20tela%202026-03-17%20085003.png" />
   <img src="https://img.shields.io" />
   <img src="https://img.shields.io" />
   <img src="https://img.shields.io" />
