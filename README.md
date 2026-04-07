@@ -1,5 +1,7 @@
 ## Opa me chamo Davi
-💻 Estudante de Desenvolvimento de Sistemas no Regente Feijó (2º ano)
+🎓 Formação
+Técnico em Desenvolvimento de Sistemas
+Colégio Estadual Regente Feijó (Previsão de conclusão: 2027)
 🚀 Em busca de novos desafios no mundo do código.
 <div style="display: inline_block"><br>
 <div> 
